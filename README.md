@@ -7,7 +7,7 @@ Vanilla HTML5, CSS3 and JavaScript with [animate on scroll](https://github.com/m
 
 ### HTML5
 
-Used tags like <section>, <header>, <footer> and <nav>.
+Used tags like section, header, footer and nav.
 
 ### CSS3
 
